@@ -1,0 +1,35 @@
+body{
+    background-image: url("bg.png");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    padding: 50px ;
+    color: rgb(255, 255, 255);
+    text-shadow:  3px 3px 1px black;
+}
+
+h2{text-align: center;}
+.create-login-bn{text-align: center;}
+
+.div-btn{text-align: center; padding: 20px;}
+
+.form-div{
+    margin: auto;
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 50px;
+    opacity: 0.9;
+}
+
+.div-home-links{
+   text-align: center;
+   font-size: 25px;
+   text-shadow: 2px 2px 1px black;
+    
+}

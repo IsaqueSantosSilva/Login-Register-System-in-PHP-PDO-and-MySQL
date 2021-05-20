@@ -1,15 +1,18 @@
 body{
-    background-image: url("bg.png");
+    background-image: url("http://is.am/4ebt");
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
+    border: 1px solid white;
+    height: 100vh;
 }
 
 h1{
     text-align: center;
     padding: 50px ;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 219, 152);
     text-shadow:  3px 3px 1px black;
+    font-weight: bold;
 }
 
 h2{text-align: center;}
@@ -24,7 +27,6 @@ h2{text-align: center;}
     border: 2px solid rgb(0, 0, 0);
     border-radius: 5px;
     padding: 50px;
-    opacity: 0.9;
 }
 
 .div-home-links{

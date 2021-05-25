@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+*, h1{ margin: 0; 
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+}
+body{
+	background-image: url("http://is.am/4ehf");
+	background-position: center;
+}
+
+.errorMsg{
+	font-size: 2.2vh;
+	position: relative;
+	top: 20px;
+	text-align: center;
+	color: rgb(255, 50, 50);
+	text-shadow: 1px 1px 1px black;
+}
+
+.sucessMsg{
+	font-size: 2.2vh;
+	position: relative;
+	top: 20px;
+	text-align: center;
+	color: rgb(38, 255, 0);
+	text-shadow: 1px 1px 1px black;	
+}
+
+h1{text-align: center; }
+
+.ui-div{
+	width: 400px;
+	margin: 0 auto;
+	position: relative;
+	top: 180px;
+	padding: 50px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: white;
+}
+
+.btn, .link{
+	text-align: center;
+	padding: 5px;
+	font-size: 2vh;
+}
+
+/* HOME PAGE STYLE */
+
+.userdiv{
+	background-color: rgb(255, 255, 255);
+	min-width: 75;
+	max-width: 100vh;
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+	border-radius: 10px;
+	border: 5px solid black;
+	padding: 20px;
+}
+
+.div-home-links{
+	font-size: 20px;
+	padding: 10px;
+}
+
+.links:hover{
+	color: blue;
+	text-decoration: underline;
+
+}
+
+.info-text{
+	color: rgb(0, 172, 0);
+	text-shadow: 2px 2px 1px black;
+}
+
+.info-text{
+	text-align: center; 
+	border: 5px double black;
+	font-family: 'Oswald', sans-serif;
+}
+
+.info-text2{
+	border: 5px double black;
+	font-family: 'Oswald', sans-serif;
+}
+
+.no-btn{
+	color: rgb(231, 0, 0);
+	font-size: 15px;
+	font-weight: bold;
+	border-radius: 5px;
+	border: 1px solid rgb(231, 0, 0);
+	cursor: pointer;
+	font-family: 'Oswald', sans-serif;
+	transition: 0.5s;
+	padding: 7px 25px 7px 25px;
+}
+
+.no-btn:hover{
+	background-color: rgb(231, 0, 0);
+	color: rgb(255, 255, 255);
+}
+
+.yes-btn{
+	color: rgb(40, 170, 0);
+	font-size: 15px;
+	font-weight: bold;
+	border-radius: 5px;
+	border: 1px solid rgb(40, 170, 0);
+	cursor: pointer;
+	font-family: 'Oswald', sans-serif;
+	transition: 0.5s;
+	padding: 7px 20px 7px 20px;
+}
+
+.yes-btn:hover{
+	background-color: rgb(40, 170, 0);
+	color: rgb(255, 255, 255);
+}
+
+
+
+
+

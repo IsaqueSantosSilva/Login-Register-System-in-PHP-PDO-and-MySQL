@@ -41,6 +41,10 @@ include("session.php");
     <a class="no-btn" href="#" rel="modal:close">NO</a>
     </div>
 </div>
+<div class="feedback-btn">
+    <a target="_black" href="http://isaquesilva.infinityfreeapp.com/Feedback-Sender-PHPMailer/">Send Feedback</a>
+</div>
+
     
     <!--jQuery :) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>

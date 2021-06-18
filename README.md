@@ -1,8 +1,8 @@
 # Login-Register-System-in-PHP-PDO-and-MySQL
 
-PHP version used: 8.0.5.<br/>
-PDO used.<br/>
-SQL(MariaDB) used.<br/>
+- [x] PHP version used: 8.0.5.<br/>
+- [x] PDO used.<br/>
+- [x] SQL(MariaDB) used.<br/>
 
 password_hash was also used, if you don't know what hash is please read [PHP documentation](https://www.php.net/manual/en/function.password-hash.php).
 

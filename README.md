@@ -4,6 +4,4 @@
 - [x] PDO used.<br/>
 - [x] SQL(MariaDB) used.<br/>
 
-password_hash was also used, if you don't know what hash is please read [PHP documentation](https://www.php.net/manual/en/function.password-hash.php).
-
 Link to prototype: [SimpleLogin.com](http://isaquesilva.infinityfreeapp.com/Simple-Login-Register-System-in-PHP-and-MySQL/login.php)
